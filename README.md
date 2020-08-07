@@ -3,3 +3,4 @@
  + tạo 1 nhánh code branch ra từ master
  + tạo file rocket-01.txt 
  + thêm nội dung : rocket 01h vào file rocket-01.txt
+ + commit lên hệ thống
