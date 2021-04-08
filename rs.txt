@@ -1,0 +1,6 @@
+B1 : lấy bài tập về máy bằng lệnh git clone
+B2 : tạo nhánh và di chuyển sang nhánh 'feature_nam' bằng lệnh git checkout -b feature_nam
+B3 : tạo file rocket-01.txt với nội dung 'rocket-01h'
+B4 : lưu những thay đổi lại bằng lệnh git add . và git commit
+B5 : tạo 1 repo trên github 
+B6 : push bài tập lên repo trên github
